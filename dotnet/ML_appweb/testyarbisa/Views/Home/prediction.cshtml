@@ -1,0 +1,43 @@
+﻿@*
+    install ML.NET visual studio installer
+    nuget
+
+    install Microsoft.ML
+    Microsoft.ML.CpuMath
+
+    Any CPU-> *86
+*@
+
+@model TestyarbisaML.Model.ModelInput
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<body>
+    @using (@Html.BeginForm())
+    {
+        <table>
+            <tr> Veuillez entrer votre Commentaire</tr>
+            <tr>
+                <td>@Html.TextBoxFor(m => m.Col0)</td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="prediction" /></td>
+                <td></td>
+            </tr>
+        </table>
+    }
+</body>
+@if (ViewBag.Result != null)
+{
+    @ViewBag.Result.Prediction
+
+}
+</html>
+

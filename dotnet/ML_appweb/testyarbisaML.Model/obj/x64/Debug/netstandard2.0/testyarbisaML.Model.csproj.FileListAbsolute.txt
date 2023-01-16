@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\bin\x64\Debug\netstandard2.0\testyarbisaML.Model.deps.json
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\bin\x64\Debug\netstandard2.0\testyarbisaML.Model.dll
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\bin\x64\Debug\netstandard2.0\testyarbisaML.Model.pdb
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.dll
+C:\Users\Lenovo\source\repos\testyarbisa\testyarbisaML.Model\obj\x64\Debug\netstandard2.0\testyarbisaML.Model.pdb
