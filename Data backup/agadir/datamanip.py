@@ -35,6 +35,8 @@ for filename in csv_files:
     name = file_name.split("-")[0]
     city = filename.split("-")[1].split(".")[0]
 
+
+
     if filename.endswith('.csv'):
         with open(os.path.join(directory, filename), 'r') as f:
             reader = csv.reader(f)

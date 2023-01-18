@@ -90,9 +90,7 @@ for url in urls:
         for j in range(len(container)):
             # print(j)
             try:
-                rating = container[j].find_element(By.XPATH,
-                                                   ".//span[contains(@class, 'ui_bubble_rating bubble_')]").get_attribute(
-                    "class").split("_")[3].replace('0', '')
+                rating = container[j].find_element(By.XPATH,".//span[contains(@class, 'ui_bubble_rating bubble_')]").get_attribute("class").split("_")[3].replace('0', '')
                 title = container[j].find_element(By.XPATH, ".//div[contains(@data-test-target, 'review-title')]").text
                 review = container[j].find_element(By.XPATH, ".//q[@class='QewHA H4 _a']").text.replace("\n", "  ")
                 datestxt = container[j].find_element(By.XPATH, ".//span[@class='teHYY _R Me S4 H3']").text
